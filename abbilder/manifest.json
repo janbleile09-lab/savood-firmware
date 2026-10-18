@@ -1,0 +1,18 @@
+{
+  "projekt": "savood_display",
+  "version": "6e96d89",
+  "sha256": "96d5fd77ed6a81f4182c0b5d8f81c924c669c86293cea66725cffc605b32c1d0",
+  "groesse": 3380336,
+  "url": "https://raw.githubusercontent.com/janbleile09-lab/savood-firmware/fw-abbilder/abbilder/savood_display.bin",
+  "pflicht": true,
+  "notiz": "Firmware 6e96d89 ueber GitHub Pages (kein Redirect)",
+  "schema": "savood-ota-manifest/1",
+  "abbild": "savood_display.bin",
+  "ziel_partition": "ota_0",
+  "idf_version": "v5.5.3-dirty",
+  "bauzeit": "Oct 18 2026 10:21:52",
+  "secure_version": 0,
+  "app_elf_sha256": "11d1bd03a67b142bfafea30246ad942658e3f6e66e6d26924df6c21d4f08105c",
+  "app_desc_offset": "0x20",
+  "app_desc_magic": "0xABCD5432"
+}
