@@ -1,18 +1,18 @@
 {
   "projekt": "savood_display",
-  "version": "d3c9d98",
-  "sha256": "0c81915d4852bf9ad0df320c7c8f31788dcba579391e61697f4d9f7db7f26683",
+  "version": "a1f3f8e",
+  "sha256": "cc9b6d5bec0ae9e69a1543b2fee9a1d6309a318c3edd8e91d96725bce65b8243",
   "groesse": 4830960,
   "url": "https://raw.githubusercontent.com/janbleile09-lab/savood-firmware/fw-abbilder/abbilder/savood_display.bin",
   "pflicht": true,
-  "notiz": "Firmware d3c9d98 (W29-Fix: Padding statt Versatz, Chat-Eingabe sichtbar) 28.10.2026",
+  "notiz": "Firmware a1f3f8e (W29-Fix: pad_top statt Versatz, Chat-Eingabe vollstaendig sichtbar) 28.10.2026",
   "schema": "savood-ota-manifest/1",
   "abbild": "savood_display.bin",
   "ziel_partition": "ota_0",
   "idf_version": "v5.5.3-dirty",
-  "bauzeit": "Oct 28 2026 17:37:08",
+  "bauzeit": "Oct 28 2026 18:04:50",
   "secure_version": 0,
-  "app_elf_sha256": "80070c42669d85113adb2aa44ccd7b2ecad653c70d3d5789dcd3ea4110b3f3a1",
+  "app_elf_sha256": "1a9828c066662f075b494de5a65c648c28906814c089d88d0c5481d0440eaa98",
   "app_desc_offset": "0x20",
   "app_desc_magic": "0xABCD5432"
 }
